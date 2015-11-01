@@ -1,9 +1,9 @@
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "fedora";
-const char* password = "zkzCpx3e";
-const char* mqtt_server = "85.119.83.194"; //MOSQUITTO.ORG
+const char* ssid = "SSID_WIFI";
+const char* password = "PASSWORD_WIFI";
+const char* mqtt_server = "85.119.83.194"; //IP MOSQUITTO.ORG
 
 
 WiFiClient espClient;

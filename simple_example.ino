@@ -28,8 +28,8 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid = "fedora";
-const char* password = "zkzCpx3e";
+const char* ssid = "SSID_WIFI";
+const char* password = "PASSWORD_WIFI";
 const char* mqtt_server = "10.42.0.1";
 
 WiFiClient espClient;

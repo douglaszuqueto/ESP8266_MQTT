@@ -11,6 +11,8 @@ Para que isso ocorra, sugiro seguir algumas das referências que eu citarei logo
 * [https://github.com/esp8266/Arduino] - Arduino core for ESP8266 WiFi chip
 * [https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/using-arduino-ide] - Using Arduino IDE
 
+**OBS**: Precisará baixar essa biblioteca também ;) [https://github.com/knolleary/pubsubclient]
+
 ### Conexão do ESP ao Modulo Conversor/Placa Arduino
 Feito a integração, se faz necessário a ligação do ESP8266 ao modulo conversor usb/serial ou usar uma placa Arduino Uno mesmo(eu uso essa forma)
 

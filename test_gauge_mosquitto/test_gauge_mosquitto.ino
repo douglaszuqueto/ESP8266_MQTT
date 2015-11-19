@@ -2,8 +2,8 @@
 #include <WiFiClient.h>
 #include <PubSubClient.h>
 
-const char* SSID = "SSID"; //Seu SSID da Rede WIFI
-const char* PASSWORD = "PASSWORD"; // A Senha da Rede WIFI
+const char* SSID = "fedora"; //Seu SSID da Rede WIFI
+const char* PASSWORD = "zkzCpx3e"; // A Senha da Rede WIFI
 const char* MQTT_SERVER = "test.mosquitto.org"; //Broker do Mosquitto.org
 
 int value = 0; //Contador de é incrementado de -20 a 50
@@ -37,13 +37,13 @@ void reconectar() {
       Serial.print("Falha ao Conectador, rc=");
       Serial.print(MQTT.state());
       Serial.println(" tentando se reconectar...");
-      delay(1000);
+      delay(3000);
     }
   }
 }
 void loop(void) {
   if (!MQTT.connected()) {
-    reconnect();
+    reconectar();
   }
   MQTT.loop();
   long now = millis();

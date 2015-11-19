@@ -33,7 +33,8 @@ Observe a imagem abaixo com o site já aberto.
 
 ![ScreenShot](https://raw.github.com/douglaszuqueto/ESP8266_MQTT/master/VisualizandoTesteMQTT.png)
 
-O MQTT é um protocolo muito bom para diversos tipos de aplicações, pois é leve, rápido, tem uma enorme compatibilidade com os embarcados e também possui inúmeras ferramentas para trabalhar com MQTT. Abaixo deixarei uma lista de algumas referências caso queiram estudar o MQTT, sugiro também, caso goste, pesquisar no YouTube mesmo vídeos de Arduino + MQTT, ESP8266 + MQTT. 
+O MQTT é um protocolo muito bom para diversos tipos de aplicações, pois é leve, rápido, tem uma enorme compatibilidade com os embarcados e também possui inúmeras ferramentas para trabalhar com MQTT. 
+Abaixo, deixarei uma lista de algumas referências caso queiram estudar o MQTT, sugiro também, caso tenha curiosidade, pesquisar no YouTube por vídeos de Arduino + MQTT, ESP8266 + MQTT. 
 
 * [http://mosquitto.org/] 
 * [http://test.mosquitto.org/]

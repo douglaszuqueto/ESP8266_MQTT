@@ -5,7 +5,7 @@ Nesse cenário, construiremos uma pequena aplicação que mandará informações
 ### Integração da IDE
 
 Primeiramente, para se programar o ESP8266, caso vocês não possuam, é necessário fazer a integração da IDE do Arduino para acrescentar as ferramentas do ESP8266.
-Para que isso ocorre sugiro seguir algumas das referências que eu citarei logo abaixo. Mas já adianto que essa integração é bem fácil, simples passos e sua IDE já vai estar pronta para programar o ESP8266 :)
+Para que isso ocorra, sugiro seguir algumas das referências que eu citarei logo abaixo. Mas já adianto que essa integração é bem fácil, simples passos e sua IDE já vai estar pronta para programar o ESP8266 :)
 
 * [https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide/installing-the-esp8266-arduino-addon] - Installing the ESP8266 Arduino Addon
 * [https://github.com/esp8266/Arduino] - Arduino core for ESP8266 WiFi chip

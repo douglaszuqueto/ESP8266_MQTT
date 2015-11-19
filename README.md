@@ -42,7 +42,7 @@ O MQTT é um protocolo muito bom para diversos tipos de aplicações, pois é le
 * [https://www.cloudmqtt.com/] - Plataforma que te oferece uma conta free para realizar alguns testes :)
 * [www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt] - Série de artigos sobre MQTT **Recomendo**
 
-**OBS**
+### Observações
 Estou usando esse protocolo em meu TCC. De acordo que vou terminando o projeto, irei postando mais detalhes no grupo.
 Ontem, deixei meu Embarcado ligado das 8 horas da manhã, até as 6:30 da tarde, ele estava enviando mensagens a cada segundo para o Broker, deve ter dado pelos meus cálculos, mais de 40.000 mensagens enviadas haha.
 

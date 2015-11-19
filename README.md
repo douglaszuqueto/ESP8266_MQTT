@@ -40,6 +40,7 @@ O MQTT é um protocolo muito bom para diversos tipos de aplicações, pois é le
 * [http://www.eclipse.org/paho/]
 * [http://mqtt.org/]
 * [https://www.cloudmqtt.com/] - Plataforma que te oferece uma contra free para realizar alguns testes :)
+* [www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt] - Série de artigos sobre MQTT **Recomendo**
 
 **OBS**
 Estou usando esse protocolo em meu TCC. De acordo que vou terminando o projeto, irei postando mais detalhes no grupo.

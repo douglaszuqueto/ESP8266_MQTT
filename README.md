@@ -17,5 +17,7 @@ Feito a integração, se faz necessário a ligação do ESP8266 ao modulo conver
 * [http://pedrominatel.com.br/eletronica/esp8266-o-guia-basico-de-hardware/] - Caso não saiba efetuar a ligação, sugiro esse artigo do Pedro Minatel
 
 ### Código a Ser enviado para o ESP8266
+* [https://github.com/douglaszuqueto/ESP8266_MQTT/blob/master/test_gauge_mosquitto/test_gauge_mosquitto.ino] - Código está no repositório (pasta  test_gauge_mosquitto);
 
+Com esse código, única coisa que precisa ser feito, é mudar o SSID e a Senha do Roteador WIFI. Feito isso, carrega o código para o ESP8266 e depois abra o Serial Monitor e veja o que está acontecendo.
 
